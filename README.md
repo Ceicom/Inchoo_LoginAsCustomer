@@ -8,3 +8,5 @@ algum meio de pagamento não está preparado para funcionar na área administrat
 **Preço**: gratuito
 
 **Referência**: https://github.com/ajzele/Inchoo_LoginAsCustomer
+
+![alt text](https://image.prntscr.com/image/XRfcfKZBQ86kIf-ltqTsbA.png)
